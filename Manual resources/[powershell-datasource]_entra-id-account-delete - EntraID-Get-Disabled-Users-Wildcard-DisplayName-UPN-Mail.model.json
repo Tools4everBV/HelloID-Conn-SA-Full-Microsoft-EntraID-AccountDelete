@@ -1,6 +1,10 @@
 [
     {
-        "key":  "Title",
+        "key":  "id",
+        "type":  0
+    },
+    {
+        "key":  "userPrincipalName",
         "type":  0
     },
     {
@@ -8,15 +12,23 @@
         "type":  0
     },
     {
+        "key":  "mail",
+        "type":  0
+    },
+    {
+        "key":  "description",
+        "type":  0
+    },
+    {
         "key":  "department",
         "type":  0
     },
     {
-        "key":  "UserPrincipalName",
+        "key":  "jobTitle",
         "type":  0
     },
     {
-        "key":  "Company",
+        "key":  "companyName",
         "type":  0
     },
     {
